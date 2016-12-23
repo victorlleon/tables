@@ -7,9 +7,9 @@
 <h1>Basic Tables<h1>
 
 <table>
-    <tbody>
-        <tr><td></td><td></td></tr>
-        <tr><td></td><td></td></tr>
-        <tr><td></td><td></td></tr>
-    </tbody>
+   
+        <tr><td>dogs</td><td>cats</td></tr>
+        <tr><td>gorilla</td><td>lion</td></tr>
+        <tr><td>monkey</td><td>graffi</td></tr>
+   
 </table>
